@@ -111,24 +111,20 @@ The model can answer various types of questions about charts, such as:
 - Comparing different data points
 - Analyzing relationships between variables
 
-## Contributing
 
-Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
 
-If you use this model in your research, please cite:
 
 ```bibtex
 @software{chartquery_vlm,
   title = {ChartQuery-VLM: Fine-tuned Vision-Language Model for Chart Analysis},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/ChartQuery-VLM}
+  author = {Ankit Kumar},
+  year = {2025},
+  url = {https://github.com/chuck-ankit/ChartQuery-VLM}
 }
 ```
 
